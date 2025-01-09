@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sherifelkereti@gmail.com**
 
-- ⚡ Fun fact about me **I Hate Web Development XD**
+- ⚡ Fun fact about me **I Hate Web Development xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
